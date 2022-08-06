@@ -89,3 +89,4 @@ Caso queira fazer testes usando html é só alterar o index.html.
 ## Sobre colaboração 
 Sinta-se livre para abrir pull requests com melhorias para ajudar quem quiser aprender mais sobre Typescript. Também podem tirar dúvidas comigo via comentário.
 # mentoria-typescript-main
+# mentoria-typescript-main
